@@ -1,4 +1,6 @@
-# idxstock
+# IDX Stock
+
+Stock Data from IDX
 
 To install dependencies:
 
@@ -12,6 +14,6 @@ To run:
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.1.42. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+stock.kanggara.my.id
 
 Credit to [@wildangunawan](https://github.com/wildangunawan) of [Dataset-Saham-IDX](https://github.com/wildangunawan/Dataset-Saham-IDX)
