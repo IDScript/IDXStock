@@ -1,0 +1,20 @@
+{
+	"name": "idxstock",
+	"module": "index.ts",
+	"type": "module",
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	},
+	"scripts": {
+		"dev": "bun run --hot src/index.ts"
+	},
+	"dependencies": {
+		"hono": "^4.6.15",
+		"uuid": "^11.0.3",
+		"winston": "^3.17.0",
+		"zod": "^3.24.1"
+	},
+	"devDependencies": {
+		"@types/bun": "latest"
+	}
+}
